@@ -211,26 +211,28 @@ MAO
 Resultado:
 
 ```txt
-GRU → BSB → FOR → MAO
+GRU → MAO
 ```
 
 Conexões:
 
 ```txt
-3
+1
 ```
 
 Escalas:
 
 ```txt
-2
+0
 ```
 
 Distância:
 
 ```txt
-4929,78 km
+2689 km
 ```
+
+Também são exibidas até 3 rotas alternativas plausíveis para comparação, sem caminhos muito extensos.
 
 ---
 
@@ -242,7 +244,7 @@ O sistema permite:
 * Modelar rotas através de grafos
 * Encontrar caminhos utilizando Busca em Largura (BFS)
 * Retornar o menor número de escalas
-* Calcular distâncias automaticamente utilizando PostGIS
+* Calcular distâncias aéreas estimadas utilizando PostGIS
 * Exibir as rotas em mapa interativo utilizando Leaflet e OpenStreetMap
 
 ---
