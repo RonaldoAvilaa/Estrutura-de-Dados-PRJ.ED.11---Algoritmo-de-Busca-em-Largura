@@ -1,9 +1,9 @@
 # PRJ.ED.11 - Sistema de Rotas Aéreas com Busca em Largura (BFS)
 
-## Autor
+## Autores
 
 **Thales Cambraia Dias**
-**Ronaldo de Ávila Ribeiro Júnior**
+##Ronaldo de Ávila Ribeiro Júnior**
 **João Paulo Lorena**
 Curso: Desenvolvimento de Software Multiplataforma - FATEC Jacareí
 
