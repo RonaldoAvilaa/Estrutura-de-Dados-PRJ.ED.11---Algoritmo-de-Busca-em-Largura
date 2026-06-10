@@ -2,10 +2,11 @@
 
 ## Autores
 
-**Thales Cambraia Dias**
-##Ronaldo de Ávila Ribeiro Júnior
-**João Paulo Lorena**
-Curso: Desenvolvimento de Software Multiplataforma - FATEC Jacareí
+- **Thales Cambraia Dias**
+- **Ronaldo de Ávila**
+- **João P. Lorena**
+
+**Curso:** Desenvolvimento de Software Multiplataforma - FATEC Jacareí
 
 ---
 
